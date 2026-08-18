@@ -1,0 +1,16 @@
+{
+  "Model_Architecture": "Deep Feature Extractor + Gradient Boosted Ensemble",
+  "Test_Accuracy_Pct": 90.36,
+  "Macro_F1_Score": 0.9077,
+  "Macro_Precision": 0.9099,
+  "Macro_Recall": 0.9078,
+  "Total_Dataset_Samples": 2500,
+  "Test_Samples": 363,
+  "Target_Classes": [
+    "Bacterial_Blight",
+    "Brown_Spot",
+    "Leaf_Blast",
+    "Healthy_Leaf",
+    "Tungro_Virus"
+  ]
+}
