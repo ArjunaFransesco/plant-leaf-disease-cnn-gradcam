@@ -91,6 +91,8 @@ print(f"Diagnosed Pathology: {prediction} ({confidence:.1f}% confidence)")
 
 ## 👤 Author & Connect
 
-- **Author**: Arjuna Fransesco
-- **GitHub**: [@ArjunaFransesco](https://github.com/ArjunaFransesco)
-- **Portfolio Repositories**: [https://github.com/ArjunaFransesco?tab=repositories](https://github.com/ArjunaFransesco?tab=repositories)
+- **Author**: **[Arjuna Fransesco](https://github.com/ArjunaFransesco)**
+- **GitHub Repositories**: [https://github.com/ArjunaFransesco?tab=repositories](https://github.com/ArjunaFransesco?tab=repositories)
+- **Portfolio Website**: [https://arjunafransesco.github.io/arjuna-portfolio/](https://arjunafransesco.github.io/arjuna-portfolio/)
+- **LinkedIn**: [https://www.linkedin.com/in/arjunafransesco](https://www.linkedin.com/in/arjunafransesco)
+
