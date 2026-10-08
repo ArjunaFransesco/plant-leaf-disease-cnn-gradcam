@@ -98,4 +98,4 @@ print(f"Diagnosed Pathology: {prediction} ({confidence:.1f}% confidence)")
 
 
 
-<!-- Last Maintenance Audit: 2026-10-06 -->
+<!-- Last Maintenance Audit: 2026-10-08 -->
